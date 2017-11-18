@@ -10,11 +10,11 @@ ddoId = get_new(ddsId, "Object");
 // DataDisplay Object:
 	set(ddoId, "Path", dds_get_exec_path(what_file(0)));
 	set(ddoId, "Name", dds_get_exec_file(what_file(0)));
-	set(ddoId, "FileModifiedDateAndTime", "2017-11-18T20:39:38Z");
+	set(ddoId, "FileModifiedDateAndTime", "2017-11-18T21:23:30Z");
 	set(ddoId, "FileCreatedDateAndTime", "2017-11-18T19:03:39Z");
 	dssId = get(ddoId, "DatasetServer");
 // Default Dataset
-	set(ddoId, "DefaultDataset", "broadband_schem_NoScale_MomUW_a");
+	set(ddoId, "DefaultDataset", "broadband_schem_NoScale");
 // Snap/Grid Defaults 
 	set(ddoId, "GridType", 0);
 	set(ddoId, "GridOn", 0);
@@ -37,7 +37,7 @@ goId0 = get_new(pageId, "Plot");
 // Graphical Object:
 	set(goId0, "Right", 6100);
 	set(goId0, "Bottom", 1754);
-	set(goId0, "Left", 1791);
+	set(goId0, "Left", 1728);
 	set(goId0, "Top", -250);
 	set(goId0, "Zrot", 0.000000);
 	set(goId0, "Yrot", 0.000000);
@@ -51,7 +51,7 @@ goId0 = get_new(pageId, "Plot");
 	set(goId0, "FillColor", 0);
 // Plot base...
 	set(goId0, "LegendOnOff", TRUE);
-	set(goId0, "LeftMargin", 959);
+	set(goId0, "LeftMargin", 1022);
 	set(goId0, "RightMargin", 100);
 	set(goId0, "TopMargin", 125);
 	set(goId0, "BottomMargin", 504);
@@ -98,7 +98,7 @@ axisID = get_new(goId0, "Axis", ddsYaxis, "Y Axis");
 		 set(axisID, "LineType", 0);
 		 set(axisID, "TickFontSize", 112);
 		 set(axisID, "AutoscaleOnOff", TRUE);
-		 set(axisID, "MinValue", -60);
+		 set(axisID, "MinValue", -100);
 		 set(axisID, "MaxValue", 0);
 		 set(axisID, "StepSize", 20);
 		 set(axisID, "Logarithmic", FALSE);
@@ -191,7 +191,7 @@ traceID = get_new(goId0, "Trace", "dB(S(2,1))", "X Axis", "Y Axis");
 			set(traceID, "DensitySymbolType", ddsDotSymbol);
 		}
 	}
-markerID = get_new(traceID, "MarkerNew", "m3", "2070000000.00000000000000000000000000000000", 0, "", "", 1, "");
+markerID = get_new(traceID, "MarkerNew", "m3", "2070625000.00000000000000000000000000000000", 0, "", "", 1, "");
 // Base Class Object:
 	set(markerID, "Name", "");
 	set(markerID, "Uid", 1246718321);
@@ -790,9 +790,9 @@ axisID = get_new(goId0, "Axis", ddsYaxis, "Y Axis");
 		 set(axisID, "LineType", 0);
 		 set(axisID, "TickFontSize", 112);
 		 set(axisID, "AutoscaleOnOff", TRUE);
-		 set(axisID, "MinValue", 160);
-		 set(axisID, "MaxValue", 300);
-		 set(axisID, "StepSize", 20);
+		 set(axisID, "MinValue", 174);
+		 set(axisID, "MaxValue", 181);
+		 set(axisID, "StepSize", 1);
 		 set(axisID, "Logarithmic", FALSE);
 		 set(axisID, "Font", "Arial For CAE");
 		 set(axisID, "Format", ddsFormatAutomatic);
@@ -1026,7 +1026,7 @@ markerID = get_new(traceID, "MarkerNew", "m2", "2855000000.000000000000000000000
 ddWinId = get_new(ddsId, "Window");
 	set(ddWinId, "Object", ddoId);
 	set(ddWinId, "CurrentPage", 659645736);
-	set(ddWinId, "PageViewRect_659645736", list(-3057, 4291, 7274, -1443));
+	set(ddWinId, "PageViewRect_659645736", list(-3060, 4293, 7274, -1443));
 	set(ddWinId, "Frame", list(-11, -11, 2696, 1590));
 	set(ddWinId, "ForegroundColor", 0);
 	set(ddWinId, "BackgroundColor", 8);
