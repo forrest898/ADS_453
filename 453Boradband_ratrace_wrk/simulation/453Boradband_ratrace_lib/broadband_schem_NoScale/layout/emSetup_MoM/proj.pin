@@ -9,7 +9,7 @@
         <layer>1</layer>
         <purpose>-1</purpose>
         <point>
-          <x>-0.0057</x>
+          <x>-0.0025</x>
           <y>0</y>
         </point>
       </shape>
@@ -23,7 +23,7 @@
         <layer>1</layer>
         <purpose>-1</purpose>
         <point>
-          <x>0.0415954</x>
+          <x>0.0390954</x>
           <y>-0.0172757</y>
         </point>
       </shape>
@@ -37,8 +37,8 @@
         <layer>1</layer>
         <purpose>-1</purpose>
         <point>
-          <x>0.0420954</x>
-          <y>0.0005057</y>
+          <x>0.0389954</x>
+          <y>0.0006057</y>
         </point>
       </shape>
     </layout>
@@ -51,7 +51,7 @@
         <layer>1</layer>
         <purpose>-1</purpose>
         <point>
-          <x>0.0424954</x>
+          <x>0.0389954</x>
           <y>-0.0355571</y>
         </point>
       </shape>

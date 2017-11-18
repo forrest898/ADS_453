@@ -526,18 +526,6 @@
                 <TLMeshType>0</TLMeshType>
                 <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
               </MomSimOptMeshNetSpecMapData>
-              <keyName>N__2</keyName>
-              <MomSimOptMeshNetSpecMapData version="1.0">
-                <netName>N__2</netName>
-                <MeshDensityType>0</MeshDensityType>
-                <MeshDensity>0</MeshDensity>
-                <MeshDensityUnit></MeshDensityUnit>
-                <EdgeMeshType>0</EdgeMeshType>
-                <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
-                <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
-                <TLMeshType>0</TLMeshType>
-                <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
-              </MomSimOptMeshNetSpecMapData>
               <keyName>N__3</keyName>
               <MomSimOptMeshNetSpecMapData version="1.0">
                 <netName>N__3</netName>
@@ -693,13 +681,6 @@
               <keyName>N__14</keyName>
               <MomSimOptSubstrateNetSpecMapData version="1.0">
                 <netName>N__14</netName>
-                <MetalExpansion>0</MetalExpansion>
-                <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
-                <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
-              </MomSimOptSubstrateNetSpecMapData>
-              <keyName>N__2</keyName>
-              <MomSimOptSubstrateNetSpecMapData version="1.0">
-                <netName>N__2</netName>
                 <MetalExpansion>0</MetalExpansion>
                 <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
                 <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
@@ -932,18 +913,6 @@
               <TLMeshType>0</TLMeshType>
               <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
             </MomSimOptMeshNetSpecMapData>
-            <keyName>N__2</keyName>
-            <MomSimOptMeshNetSpecMapData version="1.0">
-              <netName>N__2</netName>
-              <MeshDensityType>0</MeshDensityType>
-              <MeshDensity>0</MeshDensity>
-              <MeshDensityUnit></MeshDensityUnit>
-              <EdgeMeshType>0</EdgeMeshType>
-              <EdgeMeshEdgeWidth>0</EdgeMeshEdgeWidth>
-              <EdgeMeshEdgeWidthUnit></EdgeMeshEdgeWidthUnit>
-              <TLMeshType>0</TLMeshType>
-              <TLMeshCellsInWidth>0</TLMeshCellsInWidth>
-            </MomSimOptMeshNetSpecMapData>
             <keyName>N__3</keyName>
             <MomSimOptMeshNetSpecMapData version="1.0">
               <netName>N__3</netName>
@@ -1099,13 +1068,6 @@
             <keyName>N__14</keyName>
             <MomSimOptSubstrateNetSpecMapData version="1.0">
               <netName>N__14</netName>
-              <MetalExpansion>0</MetalExpansion>
-              <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
-              <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
-            </MomSimOptSubstrateNetSpecMapData>
-            <keyName>N__2</keyName>
-            <MomSimOptSubstrateNetSpecMapData version="1.0">
-              <netName>N__2</netName>
               <MetalExpansion>0</MetalExpansion>
               <ModelTypeForCurrentsThickConductor>0</ModelTypeForCurrentsThickConductor>
               <ModelTypeForCurrentsVia>0</ModelTypeForCurrentsVia>
@@ -1470,7 +1432,7 @@
                 <layerIdName>cond:drawing</layerIdName>
                 <shapeType>point</shapeType>
                 <points>
-                  <stdItem>-0.0057:0</stdItem>
+                  <stdItem>-0.0025:0</stdItem>
                 </points>
               </PinShapeDef>
             </shapes>
@@ -1488,7 +1450,7 @@
                 <layerIdName>cond:drawing</layerIdName>
                 <shapeType>point</shapeType>
                 <points>
-                  <stdItem>0.0415954:-0.0172757</stdItem>
+                  <stdItem>0.0390954:-0.0172757</stdItem>
                 </points>
               </PinShapeDef>
             </shapes>
@@ -1506,7 +1468,7 @@
                 <layerIdName>cond:drawing</layerIdName>
                 <shapeType>point</shapeType>
                 <points>
-                  <stdItem>0.0420954:0.0005057</stdItem>
+                  <stdItem>0.0389954:0.0006057</stdItem>
                 </points>
               </PinShapeDef>
             </shapes>
@@ -1524,7 +1486,7 @@
                 <layerIdName>cond:drawing</layerIdName>
                 <shapeType>point</shapeType>
                 <points>
-                  <stdItem>0.0424954:-0.0355571</stdItem>
+                  <stdItem>0.0389954:-0.0355571</stdItem>
                 </points>
               </PinShapeDef>
             </shapes>
