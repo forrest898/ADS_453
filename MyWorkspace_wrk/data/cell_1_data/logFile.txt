@@ -8,5 +8,5 @@ SP SP1[1] <MyLibrary_lib:cell_1:schematic>   freq=(2 GHz->3 GHz)
 
 
 Resource usage:
-  Total stopwatch time     =     0.58 seconds.
+  Total stopwatch time     =     2.09 seconds.
 
