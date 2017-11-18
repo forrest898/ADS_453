@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Spencer
+HostName                       SPENCERDESR40E2
+ProcessIdentifier              4764
+ProcessCreationTime_UTC        1511031359
+ProcessCreationTime_Readable   11/18/17 13:55:59 Eastern Standard Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\Spencer\Desktop\ADS_453\453Boradband_ratrace_wrk\453Boradband_ratrace_lib\broadband_schem_%No%Scale\layout\layout.oa.cdslck
+TimeEditLocked                 11/18/17 14:36:22 Eastern Standard Time

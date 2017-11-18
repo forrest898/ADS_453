@@ -1,0 +1,156 @@
+License checkout took 0.031 sec
+Momentum MomEngine_64 12.00.024 (*) built: Jan 14 2016
+Copyright 1992-2016, Keysight Technologies
+Simulation started on: Sat Nov 18 16:10:53 2017
+Simulation Mode: uW
+Substrate valid
+Using the minimal snap distance of 0.0004 mm
+(4 layout resolution points) for layout healing.
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Generating mesh at 3 GHz...
+License checkout took 0.034 sec
+S-parameter simulation
+S-parameter simulation started
+...initializing
+...extracting layout
+...analyzing ports
+...reducing mesh
+Automatic selection: direct dense matrix solver
+Using multi-threading (4 threads)
+Matrix size: 217 (reduced: 142)
+Adaptive frequency sweep started
+Simulation frequency [1] = 2 GHz
+...loading Green functions
+...creating Basis sections
+...allocating interaction matrix
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [2] = 3 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Adaptive:   0.0 % of frequency range covered
+Simulation frequency [3] = 2.66667 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [4] = 2.33333 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [5] = 2.88889 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [6] = 2.16667 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [7] = 2.27778 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [8] = 2.5 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [9] = 2.11111 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [10] = 2.81481 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [11] = 2.90741 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [12] = 2.63889 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [13] = 2.01852 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Simulation frequency [14] = 2.22222 GHz
+...loading Green functions
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calibrating ports
+.........|.........|.........|.........| 
+...calculating S-parameters
+Adaptive: 100.0 % of frequency range covered
+S-parameter simulation finished
+Simulation finished on: Sat Nov 18 16:11:07 2017
+The simulation results have been saved in dataset "broadband_schem_NoScale_MomUW".

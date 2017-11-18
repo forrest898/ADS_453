@@ -1,0 +1,5 @@
+jobName=EmPpMsgs
+jobType=emprep
+designName=453Boradband_ratrace_lib:broadband_schem_NoScale:layout
+ruleFilePath=
+addInfo="EM preprocessor messages displayed as DRC errors"
