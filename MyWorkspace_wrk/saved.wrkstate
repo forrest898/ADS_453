@@ -1,7 +1,7 @@
 <!DOCTYPE SaveWorkspaceState>
 <SaveWorkspaceState>
     <Windows>
-        <Schematic y1="0" cell="cell_1" height="987" x1="0" lib="MyLibrary_lib" view="schematic" width="1203"/>
+        <Layout view="layout" width="1536" y1="38" lib="MyLibrary_lib" height="825" cell="Proj_RRC" x1="38"/>
     </Windows>
     <MainWindowTab tab="1"/>
 </SaveWorkspaceState>
